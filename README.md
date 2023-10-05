@@ -1,4 +1,4 @@
-# Demo versions
+# test1 versions
 
 ## Context
 
@@ -9,7 +9,7 @@ In the context of Open Terms Archive:
 Each version represents the state of the terms at the time of its capture, and they are publicly stored to provide a historical record of how the terms have evolved over time.
 - a **collection** refers to a grouping of terms tracked by Open Terms Archive characterised through a three-dimensional scope defined by language, jurisdiction and industry.
 
-Detailed information about this collection can be found at [its definition repository](https://github.com/OpenTermsArchive/demo-declarations).
+Detailed information about this collection can be found at [its definition repository](https://github.com/clementbiron/test1-declarations).
 
 **This repository has to be considered as the database of versions for this collection.**
 
@@ -19,7 +19,7 @@ Detailed information about this collection can be found at [its definition repos
 
 🔔 [Subscribe by RSS to terms changes](https://docs.opentermsarchive.org/subscribe-rss/) to be notified.
 
-📥 [Download versions as dataset](https://github.com/OpenTermsArchive/demo-versions/releases) to explore data locally on your filesystem.
+📥 [Download versions as dataset](https://github.com/clementbiron/test1-versions/releases) to explore data locally on your filesystem.
 
 If a specific service or specific terms for a service is missing from this collection, it may be available in others [referenced Open Terms Archive collections](https://opentermsarchive.org/#collections). If not, it can be added by following our documentation about [contributing terms](https://docs.opentermsarchive.org/contributing-terms).
 
